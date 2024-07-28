@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\views\\student\\getstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\views\\student\\getstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\views\\student\\getstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\views\\student\\getstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\views\\student\\removestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\views\\student\\removestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\models\\appdpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\models\\appdpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|c:\\users\\lenovo\\source\\repos\\task1_mvc\\task1_mvc\\migrations\\20240725190903_addage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3066F562-A3A6-49D3-BF0E-CB2F5A00D97C}|Task1_MVC\\Task1_MVC.csproj|solutionrelative:task1_mvc\\migrations\\20240725190903_addage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "Task1_MVC\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "Task1_MVC\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T11:23:52.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Task1_MVC\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Task1_MVC\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:09:39.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Task1_MVC\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Models\\Student.cs",
+              "RelativeToolTip": "Task1_MVC\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:26:58.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Student\\EditStudent.cshtml",
+              "RelativeDocumentMoniker": "Task1_MVC\\Views\\Student\\EditStudent.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Student\\EditStudent.cshtml",
+              "RelativeToolTip": "Task1_MVC\\Views\\Student\\EditStudent.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAkwEYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T19:01:42.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "getStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Student\\getStudents.cshtml",
+              "RelativeDocumentMoniker": "Task1_MVC\\Views\\Student\\getStudents.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Student\\getStudents.cshtml",
+              "RelativeToolTip": "Task1_MVC\\Views\\Student\\getStudents.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAH0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T11:02:11.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task1_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task1_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T12:57:10.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Task1_MVC\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Models\\Department.cs",
+              "RelativeToolTip": "Task1_MVC\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:43:24.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Task1_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Task1_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T12:57:01.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "getStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Student\\getStudent.cshtml",
+              "RelativeDocumentMoniker": "Task1_MVC\\Views\\Student\\getStudent.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Student\\getStudent.cshtml",
+              "RelativeToolTip": "Task1_MVC\\Views\\Student\\getStudent.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAASwCYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T16:19:52.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "removeStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Student\\removeStudent.cshtml",
+              "RelativeDocumentMoniker": "Task1_MVC\\Views\\Student\\removeStudent.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Student\\removeStudent.cshtml",
+              "RelativeToolTip": "Task1_MVC\\Views\\Student\\removeStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T11:10:21.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task1_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Task1_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T17:03:35.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Models\\ViewModel.cs",
+              "RelativeDocumentMoniker": "Task1_MVC\\Models\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Models\\ViewModel.cs",
+              "RelativeToolTip": "Task1_MVC\\Models\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:15:18.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240725190903_addage.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Migrations\\20240725190903_addage.cs",
+              "RelativeDocumentMoniker": "Task1_MVC\\Migrations\\20240725190903_addage.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Migrations\\20240725190903_addage.cs",
+              "RelativeToolTip": "Task1_MVC\\Migrations\\20240725190903_addage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:09:04.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDpContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Models\\AppDpContext.cs",
+              "RelativeDocumentMoniker": "Task1_MVC\\Models\\AppDpContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Task1_MVC\\Task1_MVC\\Models\\AppDpContext.cs",
+              "RelativeToolTip": "Task1_MVC\\Models\\AppDpContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:45:13.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

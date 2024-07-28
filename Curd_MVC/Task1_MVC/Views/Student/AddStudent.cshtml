@@ -1,0 +1,115 @@
+﻿@model Student
+
+<h1>AddStudent</h1>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        label {
+            padding: 12px 12px 12px 0;
+            display: inline-block;
+        }
+
+        input[type=submit] {
+            background-color: #04AA6D;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            float: right;
+        }
+
+            input[type=submit]:hover {
+                background-color: #45a049;
+            }
+
+        .container {
+            border-radius: 5px;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+
+        .col-25 {
+            float: left;
+            width: 25%;
+            margin-top: 6px;
+        }
+
+        .col-75 {
+            float: left;
+            width: 75%;
+            margin-top: 6px;
+        }
+
+        /* Clear floats after the columns */
+        .row::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        .text-danger {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <form asp-action="AddStudentActual" method="post">
+            @* Validation Summary *@
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="row">
+                <div class="col-25">
+                    <label asp-for="Name"></label>
+                </div>
+                <div class="col-75">
+                    <input type="text" asp-for="Name" placeholder="Your name..">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-25">
+                    <label asp-for="age"></label>
+                </div>
+                <div class="col-75">
+                    <input type="number" asp-for="age" placeholder="Your age..">
+                    <span asp-validation-for="age" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-25">
+                    <label asp-for="DepartmentId"></label>
+                </div>
+                <div class="col-75">
+                    <input type="number" asp-for="DepartmentId" placeholder="Your department id..">
+                    <span asp-validation-for="DepartmentId" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-25">
+                    <label asp-for="adress"></label>
+                </div>
+                <div class="col-75">
+                    <input type="text" asp-for="adress" placeholder="Your address..">
+                    <span asp-validation-for="adress" class="text-danger"></span>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <input type="submit" value="Submit">
+            </div>
+        </form>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>
